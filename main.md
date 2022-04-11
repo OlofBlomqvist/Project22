@@ -27,10 +27,24 @@ Test C
 
 <html>
 <div class='stamps'>
+    
     <div class='LogoContainer'>
       <div class='CoinLogo' style='background-image: url("https://s3.cointelegraph.com/storage/uploads/view/a7872fcc56858227ffa183256a5d55e1.png")'/>
       <p>Cardano</p>
       <p>ADA</p>
     </div>
+    
+    <div class='LogoContainer'>
+      <div class='CoinLogo' style='background-image: url("https://s3.cointelegraph.com/storage/uploads/view/a7872fcc56858227ffa183256a5d55e1.png")'/>
+      <p>Cardano</p>
+      <p>ADA</p>
+    </div>
+    
+    <div class='LogoContainer'>
+      <div class='CoinLogo' style='background-image: url("https://s3.cointelegraph.com/storage/uploads/view/a7872fcc56858227ffa183256a5d55e1.png")'/>
+      <p>Cardano</p>
+      <p>ADA</p>
+    </div>
+    
   </div>
 </html>
