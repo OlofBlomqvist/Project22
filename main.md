@@ -36,13 +36,13 @@ Test C
     
     <div id="coin2" class='LogoContainer faded'>
       <div class='CoinLogo' style='background-image: url("https://s3.cointelegraph.com/storage/uploads/view/a7872fcc56858227ffa183256a5d55e1.png")'></div>
-      <p>Cardano 2</p>
+      <p>Cardano 2 (TBD)</p>
       <p>ADA 2</p>
     </div>
     
     <div id="coin3" class='LogoContainer faded'>
       <div class='CoinLogo' style='background-image: url("https://s3.cointelegraph.com/storage/uploads/view/a7872fcc56858227ffa183256a5d55e1.png")'></div>
-      <p>Cardano 3</p>
+      <p>Cardano 3 (TBD)</p>
       <p>ADA 3</p>
     </div>
     
